@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Michael Walsh and I live in Rochester, MN.
